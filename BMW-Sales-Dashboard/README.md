@@ -16,4 +16,5 @@ Interactive Power BI dashboard analyzing BMW sales performance, supplier metrics
 - Interactive filtering
 
 ## Dashboard Preview
-(Add screenshot here later)
+<img width="254" height="118" alt="image" src="https://github.com/user-attachments/assets/ae0e0551-b991-40ac-ada0-450fd9623533" />
+

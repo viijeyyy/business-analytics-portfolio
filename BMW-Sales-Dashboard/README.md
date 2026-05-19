@@ -1,4 +1,6 @@
 # BMW Sales, Supplier & Customer Insights Dashboard
+# Link for the dashboard file: 
+https://app.powerbi.com/view?r=eyJrIjoiNDE4MTczYzktNmY3Ny00MjZmLTk4NmYtNzdhMGEyZTg5NDU2IiwidCI6IjJhNTQzZDQ1LWE5NzItNDQ3NC05ZDUzLWRjZjFhOTdlMTYyMyIsImMiOjl9
 
 ## Overview
 Interactive Power BI dashboard analyzing BMW sales performance, supplier metrics, customer trends, and order insights.

@@ -1,4 +1,5 @@
 # France Road Accident Analytics Dashboard
+# Link for dashboard file: https://app.powerbi.com/view?r=eyJrIjoiMTVjYmUzODQtMjU5YS00YThjLWIzMjUtNjU1MWIzNDkwZmE3IiwidCI6IjJhNTQzZDQ1LWE5NzItNDQ3NC05ZDUzLWRjZjFhOTdlMTYyMyIsImMiOjl9
 
 ## Overview
 Interactive Power BI dashboard analyzing French road accident data from 2005–2016 to identify demographic, geographic, seasonal, and vehicle-related trends.

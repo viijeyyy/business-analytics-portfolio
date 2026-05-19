@@ -33,4 +33,4 @@ Interactive dashboard exploring Netflix content trends, ratings, genres, and cou
 - Business Intelligence
 - Data Analytics
   
-Open to UAE & international opportunities.
+Open to UAE & International Opportunities.

@@ -9,11 +9,6 @@ Business Management student at Riga Technical University with strong interest in
 - KPI Reporting
 - Business Analytics
 
-## Featured Projects
-- BMW Sales Dashboard
-- France Accident Analytics
-- Netflix Analytics Dashboard
-
 ## Technical Skills
 - Power BI
 - Excel
@@ -22,4 +17,20 @@ Business Management student at Riga Technical University with strong interest in
 - Jira
 - DBeaver
 
+## Featured Projects
+### BMW Sales Dashboard
+Power BI dashboard analyzing customer sales, supplier performance, and business KPIs.
+
+### France Road Accident Analysis
+Multi-page analytical dashboard visualizing accident trends, demographics, and geographic insights.
+
+### Netflix Analytics Dashboard
+Interactive dashboard exploring Netflix content trends, ratings, genres, and country-wise distribution.
+
+## Career Interests
+- Business Analysis
+- Reporting & Insights
+- Business Intelligence
+- Data Analytics
+  
 Open to UAE & international opportunities.
